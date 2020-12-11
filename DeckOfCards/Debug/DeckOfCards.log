@@ -1,0 +1,5 @@
+﻿  DeckOfCards.cpp
+C:\Users\HP\source\repos\DeckOfCards\DeckOfCards\DeckOfCards.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  DeckOfCards.vcxproj -> C:\Users\HP\source\repos\DeckOfCards\Debug\DeckOfCards.exe
